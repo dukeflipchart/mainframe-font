@@ -15,4 +15,6 @@ It was designed to be used in the on-screen display of first-person view drones 
 - A very light crosshair design that is noticeable, but does not block too much view
 - Consistent spacing and outline rules for a harmonious look
 
+## Example
+
 ![A screenshot of a Betaflight OSD using the Mainframe font](https://raw.githubusercontent.com/dukeflipchart/mainframe-font/main/mainframe-example_1.1.1.png)
