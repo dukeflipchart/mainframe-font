@@ -1,4 +1,4 @@
-# mainframe-font
+# Mainframe
  
 Mainframe is a monospaced pixel font.
 It prioritizes clarity and readability, and it pays homage to two classic typefaces:
