@@ -1,11 +1,13 @@
 # mainframe-font
  
-Mainframe is a monospaced pixel typeface.
+Mainframe is a monospaced pixel font.
 It prioritizes clarity and readability, and it pays homage to two classic typefaces:
 - Fixedsys, the oldest typeface in Microsoft Windows.
 - The default character set used in Commodore 64.
 
 It was designed to be used in the on-screen display of first-person view drones running the Betaflight open-source flight controller firmware.
+
+![A screenshot of a Betaflight OSD using the Mainframe font](https://raw.githubusercontent.com/dukeflipchart/mainframe-font/main/mainframe-example_1.1.1.png)
 
 ## Features
 
