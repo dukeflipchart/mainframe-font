@@ -17,4 +17,4 @@ It was designed to be used in the on-screen display of first-person view drones 
 
 ## Example
 
-![A screenshot of a Betaflight OSD using the Mainframe font](https://raw.githubusercontent.com/dukeflipchart/mainframe-font/main/mainframe-example_1.1.1.png)
+![A screenshot of a Betaflight OSD with tons of elements, showcasing the Mainframe font](https://github.com/dukeflipchart/mainframe-font/blob/main/mainframe-kitchen-sink-preview.png?raw=true)
