@@ -22,7 +22,7 @@ It was designed to be used in the on-screen display of first-person view drones 
 ## Installation
 
 You can use Mainframe like any other custom font in Betaflight:
-- Download "mainframe.mcm".
+- Download [mainframe.mcm](https://raw.githubusercontent.com/dukeflipchart/mainframe-font/main/mainframe.mcm) from this repository and save it on your computer.
 - Open Betaflight Configurator and connect to your drone.
 - Go to the OSD tab and click the "Font Manager" button at the bottom right.
 - Click "Open font file", and browse for the downloaded "mainframe.mcm".
